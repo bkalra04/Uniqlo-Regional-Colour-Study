@@ -9,6 +9,11 @@ This project analyzes Uniqlo’s clothing sales data to evaluate how well color 
 - Identified optimization opportunities for inventory expansion and potential revenue uplift.
 - Generated Tableau-ready datasets for visualization and business presentation.
 
+## Dataset
+- Products.csv — color, category, subcategory, and pricing data
+- Store.csv — store location and regional demographic information  
+- Sales.csv — transaction-level sales records across all regions
+
 ## Technologies: 
 Python, pandas, NumPy, matplotlib, seaborn, SciPy
 
@@ -16,3 +21,5 @@ Python, pandas, NumPy, matplotlib, seaborn, SciPy
 - Highlighted top-performing product-color combinations by revenue.
 - Quantified regional mismatches in color offerings relative to skin tone principles.
 - Provided actionable recommendations to improve regional inventory, color variety, and revenue potential.
+
+
