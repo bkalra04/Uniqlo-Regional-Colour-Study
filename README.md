@@ -9,7 +9,7 @@ This project analyzes Uniqlo’s clothing sales data to evaluate how well color 
 - Identified optimization opportunities for inventory expansion and potential revenue uplift.
 - Generated Tableau-ready datasets for visualization and business presentation.
 
-## Dataset
+## Dataset:
 - Products.csv — color, category, subcategory, and pricing data
 - Store.csv — store location and regional demographic information  
 - Sales.csv — transaction-level sales records across all regions
